@@ -2,12 +2,12 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  Here changes occured in main branch 
 }
 
 Initial Security()
 {
- //Sample Code
+ here cahnges occured in main branch
 }
 
 
